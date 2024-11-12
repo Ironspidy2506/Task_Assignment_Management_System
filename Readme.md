@@ -64,7 +64,7 @@ The Task Assignment and Management System is designed to automate **task allocat
 4. **Run the Project**
 - Open a browser and go to `http://localhost/task_management_system` to access the application.
 
---
+---
 
 ## 👥 User Roles and Access
 ### Admin Access
@@ -79,6 +79,6 @@ The Task Assignment and Management System is designed to automate **task allocat
 - Email: `user@user.com`
 - Password: `user123`
 
---
+---
 
 Thank you for using the Task Assignment and Management System! 🛠️ Happy tasking!
